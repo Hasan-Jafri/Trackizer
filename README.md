@@ -12,3 +12,6 @@ Hoping to here from you :).
 
 https://github.com/Hasan-Jafri/Trackizer/assets/110126466/6b22c95c-8f0a-46b9-b24c-c8c0755e5e31
 
+You check it just download the APK from here!!
+
+https://drive.google.com/file/d/1db3q65MVQ86I8eQcsNwOp2A0ZC_j1UQM/view?usp=sharing
