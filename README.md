@@ -1,16 +1,14 @@
 # trackizer
 
-A new Flutter project.
+An Online service expense tracking application designed to work efficiently with great performance.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I have designed the UI of the application it can be implemented if anyones wants, he can take the code and prepare the backend for it.
+Here, is a video for the demo that I recorded.
+One thing I want to mention here is that since I am still in my learning phase it can include many bugs or mishandling, incase you want to point out something you can contact me via email.i.e @mohammadhasanstd@gmail.com.
+Hoping to here from you :).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Hasan-Jafri/Trackizer/assets/110126466/6b22c95c-8f0a-46b9-b24c-c8c0755e5e31
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
