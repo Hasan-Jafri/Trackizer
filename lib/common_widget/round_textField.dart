@@ -53,7 +53,8 @@ class RoundedTextField extends StatelessWidget {
             decoration: const InputDecoration(
                 focusedBorder: InputBorder.none,
                 enabledBorder: InputBorder.none,
-                errorBorder: InputBorder.none),
+                errorBorder: InputBorder.none,
+                contentPadding: EdgeInsets.symmetric(horizontal: 10)),
           ),
         ),
       ],

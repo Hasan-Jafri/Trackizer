@@ -106,37 +106,44 @@ class _SubscriptionInfoState extends State<SubscriptionInfo> {
                       height: media.width * 1,
                       padding: const EdgeInsets.symmetric(
                           horizontal: 20, vertical: 20),
-                      child: Column(
-                        children: [
-                          Container(
-                              padding: const EdgeInsets.symmetric(vertical: 10),
-                              decoration: BoxDecoration(
-                                  color: Tcolor.grey60.withOpacity(0.2),
-                                  borderRadius: BorderRadius.circular(16)),
-                              child: Column(
-                                children: [
-                                  ItemRow(
-                                      title: 'Name',
-                                      value: widget.sObj['name']),
-                                  const ItemRow(
-                                      title: 'Description', value: 'Music app'),
-                                  const ItemRow(
-                                      title: 'Category',
-                                      value: "Entertainment"),
-                                  const ItemRow(
-                                      title: 'First payment',
-                                      value: '08.07.23'),
-                                  const ItemRow(
-                                      title: 'Reminder', value: 'Never'),
-                                  const ItemRow(
-                                      title: 'Currency', value: 'USD(\$)'),
-                                ],
-                              )),
-                          const SizedBox(
-                            height: 15,
-                          ),
-                          SecondaryButton(title: 'Save', onpressed: () {}),
-                        ],
+                      child: SingleChildScrollView(
+                        child: Column(
+                          children: [
+                            Container(
+                                padding:
+                                    const EdgeInsets.symmetric(vertical: 10),
+                                decoration: BoxDecoration(
+                                    color: Tcolor.grey60.withOpacity(0.2),
+                                    borderRadius: BorderRadius.circular(16)),
+                                child: Column(
+                                  children: [
+                                    ItemRow(
+                                        title: 'Name',
+                                        value: widget.sObj['name']),
+                                    const ItemRow(
+                                        title: 'Description',
+                                        value: 'Music app'),
+                                    const ItemRow(
+                                        title: 'Category',
+                                        value: "Entertainment"),
+                                    const ItemRow(
+                                        title: 'First payment',
+                                        value: '08.07.23'),
+                                    const ItemRow(
+                                        title: 'Reminder', value: 'Never'),
+                                    const ItemRow(
+                                        title: 'Currency', value: 'USD(\$)'),
+                                  ],
+                                )),
+                            const SizedBox(
+                              height: 15,
+                            ),
+                            SecondaryButton(title: 'Save', onpressed: () {}),
+                            const SizedBox(
+                              height: 5,
+                            ),
+                          ],
+                        ),
                       ),
                     ),
                   ],

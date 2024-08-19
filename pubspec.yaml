@@ -43,6 +43,7 @@ dependencies:
     path: dev_libs/card_swiper
   carousel_slider: ^4.2.1
   vector_math: ^2.1.4
+  scrollable_positioned_list: ^0.3.8
 
 
 dev_dependencies:
