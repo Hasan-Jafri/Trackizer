@@ -1,6 +1,6 @@
-# trackizer
-
-An Online service expense tracking application designed to work efficiently with great performance.
+# Trackizer
+Tracking ones expenses has never been easy!! Trackizer is an application idea that bridges the gap betweenn a person and his expenses details. Worry no more as we have all of the hecticness covered.
+Just download and experience the fascinating world of tracked expenses.
 
 ## Getting Started
 
@@ -14,4 +14,4 @@ https://github.com/Hasan-Jafri/Trackizer/assets/110126466/6b22c95c-8f0a-46b9-b24
 
 You check it just download the APK from here!!
 
-https://drive.google.com/file/d/1db3q65MVQ86I8eQcsNwOp2A0ZC_j1UQM/view?usp=sharing
+https://drive.google.com/file/d/1_QwhRzN0kal1jL-AnfMSceFNj6dX84sS/view?usp=sharing
